@@ -1,0 +1,12 @@
+imgui_tmp/
+.vs/
+build/
+out/
+x64/
+*.exe
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.log
+unsuccessfulbuild
